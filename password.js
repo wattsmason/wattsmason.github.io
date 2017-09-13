@@ -1,6 +1,6 @@
 // Set some variables
 var cornerSize = 200;
-var password = "aacad";
+var password = "badcab";
 var progress = "";
 var inCorner = false;
 var unlock; // Declare unlock function
