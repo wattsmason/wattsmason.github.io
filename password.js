@@ -1,6 +1,6 @@
 // Set some variables
 var cornerSize = 200;
-var password = "adcb";
+var password = "abdc";
 var progress = "";
 var inCorner = false;
 var unlock; // Declare unlock function
@@ -63,7 +63,7 @@ unlock = function() {
   
   //#############################################################
   //// Change contents of #main_box                             #
-  /**/ mainBox.innerHTML = "<a href="" id="s1"><p>Secret</p></a>"; // #
+  /**/ mainBox.innerHTML = "<a href="https://github.com/wattsmason/wattsmason.github.io" id="s1"><p>Secret</p></a>"; // #
   //#############################################################
 }
 
